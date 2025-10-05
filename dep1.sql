@@ -1,2 +1,2 @@
-insert into dept1 values(70,'TRANSPORT',null);
+insert into dept1 values(80,'FODD',null);
 exit;
